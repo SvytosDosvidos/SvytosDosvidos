@@ -47,17 +47,3 @@ A pure C++20 zero-dependency Baseline JPEG image decoder.
 <a href="https://github.com/SvytosDosvidos/Jpeg-decoder">
   <img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br/>
-
-### [ASM Integral Calculator](https://github.com/SvytosDosvidos/ASM_Integral_Calculator)
-A high-performance numerical computation engine written in C and x86 Assembly (NASM).
-* Low-level interoperability between C and Assembly adhering strictly to the `cdecl` ABI standard.
-* Implemented root finding (Newton-Raphson) and numerical integration on the 80-bit **x87 FPU** stack.
-* Automated build pipeline with dependency graph management in Makefile.
-
-`C` `x86 Assembly` `x87 FPU` `Numerical Methods` `Makefile`
-
-<a href="https://github.com/SvytosDosvidos/ASM_Integral_Calculator">
-  <img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
