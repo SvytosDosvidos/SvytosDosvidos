@@ -1,20 +1,21 @@
+<div align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="EN"></a>
+  <a href="README_RU.md"><img src="https://img.shields.io/badge/Language-Русский-gray?style=flat-square" alt="RU"></a>
+</div>
+
 <div align="center">
 
-# Hi, I'm Svyatoslav Kamyshnikov
+# Svyatoslav Kamyshnikov
 
-### Software Engineering & Robotics student at HSE University (FCS)
+2nd-year Software Engineering student at HSE University (Faculty of Computer Science)  
+HSE Minor: "Project Workshop of Robotic Systems"
 
-Passionate about robotics, low-level systems programming, and high-performance C/C++.  
-I focus on the intersection of hardware and software — building autonomous systems with **ROS 2**,  
-interfacing with sensors and actuators, and optimizing control algorithms close to the metal.
-
-<!-- TECH BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/x86_Assembly-B8860B?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -26,11 +27,16 @@ interfacing with sensors and actuators, and optimizing control algorithms close 
 
 ### About Me
 
-* **Academics:** B.S. in Software Engineering at **HSE University** (Faculty of Computer Science).
-* **Robotics Focus:** Enrolled in the *Robotic Systems Engineering* minor in collaboration with the **HSE Institute of Robotic Systems** and **EFKO**.
-* **Core Interests:** Robot Operating System (**ROS 2**), real-time control systems, autonomous navigation, sensor data processing, and hardware-software integration.
-* **Algorithmic Background:** Codeforces **Expert (1700)** rating; prize winner of competitive programming olympiads.
-* **Systems Mindset:** Enthusiastic about understanding how code executes on bare metal — from x86 Assembly and CPU cache locality to custom binary protocols and multimedia DSP.
+* **Education:** 2nd-year undergraduate in Software Engineering at HSE University, Faculty of Computer Science.
+* **HSE Minor:** Project Workshop of Robotic Systems.
+* **Interests:** Robotics, autonomous systems, ROS 2, C++, and low-level development.
+* **Algorithms:** Codeforces Expert (1700). Admitted to HSE without exams (BVI) as a prize winner of the Moscow Olympiad in Informatics (MOSH).
+
+### Contact
+
+* Telegram: [t.me/thermoshlak](https://t.me/thermoshlak)
+* Email: svyt.1000gg@gmail.com
+* Codeforces: [codeforces.com/profile/SvytosDosvidos](https://codeforces.com/profile/SvytosDosvidos)
 
 ---
 
